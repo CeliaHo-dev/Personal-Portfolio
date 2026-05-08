@@ -69,7 +69,7 @@ export default function Hero() {
                         </div>
                         <div className="stat-item">
                             <h3 className="text-[38px] font-extrabold text-white tracking-tight leading-none mb-1">
-                                USD4mn<sup className="text-[20px] text-purple align-super">+</sup>
+                                USD7mn<sup className="text-[20px] text-purple align-super">+</sup>
                             </h3>
                             <p className="text-xs text-slate uppercase tracking-[0.08em]">Campaign budget managed</p>
                         </div>
