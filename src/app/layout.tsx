@@ -14,7 +14,7 @@ const beVietnamPro = Be_Vietnam_Pro({
   display: "swap",
 });
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "https://celiahoportfolio.vercel.app";
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "https://celiaho.vercel.app/";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
